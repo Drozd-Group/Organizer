@@ -12,19 +12,19 @@ public class Days {
 
     public static String getDayOfWeekName(int number) {
         switch (number) {
-            case 1:
+            case 0:
                 return "Понедельник";
-            case 2:
+            case 1:
                 return "Вторник";
-            case 3:
+            case 2:
                 return "Среда";
-            case 4:
+            case 3:
                 return "Четверг";
-            case 5:
+            case 4:
                 return "Пятница";
-            case 6:
+            case 5:
                 return "Суббота";
-            case 7:
+            case 6:
                 return "Воскресенье";
             default:
                 return "Не опредлёне";

@@ -37,7 +37,7 @@ public class Monthes {
             case 11:
                 return "Декабрь";
             default:
-                return "Не опредлёне";
+                return "Не определён";
         }
     }
 }
